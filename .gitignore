@@ -11,3 +11,4 @@ node_modules/
 Thumbs.db
 
 !secreto.txt
+!README.md
