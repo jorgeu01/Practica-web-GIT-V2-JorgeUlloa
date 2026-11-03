@@ -1,4 +1,4 @@
 # Aprendiendo Git
 Bitácora del curso de Git y GitHub.
 
-Hola soy Jorge.
+Nota: Cada sección documenta una técnica.
