@@ -50,7 +50,7 @@
             <p>Linea para conflicto main.</p>
             <code>git merge feature/seccion-3-2</code>
         </section>
-         <section>
+        <section>
             <h2>3.4 Historial y recuperación</h2>
             <p>Con log, diff, revert, reset, reflog y stash nada se pierde.</p>
             <code>git reflog</code>
@@ -59,12 +59,19 @@
             <h2>Práctica de comandos</h2>
             <p>Herramientas para manipular el historial y pausar trabajo en progreso.</p>
             <ul>
-                <li><strong>git stash:</strong> Guarda cambios pendientes sin hacer commit para limpiar la rama de trabajo.</li>
-                <li><strong>git rebase:</strong> Reaplica los commits de la rama actual sobre otra base, logrando un historial lineal.</li>
+                <li><strong>git stash:</strong> Guarda cambios pendientes sin hacer commit para limpiar la rama de
+                    trabajo.</li>
+                <li><strong>git rebase:</strong> Reaplica los commits de la rama actual sobre otra base, logrando un
+                    historial lineal.</li>
                 <li><strong>git cherry-pick:</strong> Trae e inserta un commit específico desde otra rama.</li>
             </ul>
             <code>git stash pop</code>
             <code>git rebase main</code>
+        </section>
+        <section>
+            <h2>4.1 Remotos y GitHub</h2>
+            <p>Mi repositorio vive en GitHub: origin apunta a mi cuenta y sincronizo con fetch, pull y push.</p>
+            <code>git remote -v</code>
         </section>
     </main>
     <footer>
