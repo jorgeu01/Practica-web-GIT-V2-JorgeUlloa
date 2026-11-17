@@ -8,3 +8,4 @@ Nota: Cada sección documenta una técnica.
 Hola.
 Pendiente: revisar colores
 
+prueba de push directo
