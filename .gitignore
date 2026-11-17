@@ -1,6 +1,7 @@
 # Secretos
 .env
 secretos.txt
+.md
 # Registros
 *.log
 !importante.log
@@ -12,3 +13,4 @@ Thumbs.db
 
 !secreto.txt
 !README.md
+!pull_request_template.md
